@@ -7,10 +7,12 @@
         <table class="table">
             <thead>
               <tr>
-                <th scope="col">#</th>
-                <th scope="col">First</th>
-                <th scope="col">Last</th>
-                <th scope="col">Handle</th>
+                <th scope="col">Titolo</th>
+                <th scope="col">Descrizione</th>
+                <th scope="col">Immagine</th>
+                <th scope="col">Prezzo</th>
+                <th scope="col">Data</th>
+                <th scope="col">Tipo</th>
               </tr>
             </thead>
             <tbody>
@@ -19,16 +21,23 @@
                 <td>Mark</td>
                 <td>Otto</td>
                 <td>@mdo</td>
+                <td>@mdo</td>
+                <td>@mdo</td>
               </tr>
               <tr>
                 <th scope="row">2</th>
                 <td>Jacob</td>
                 <td>Thornton</td>
                 <td>@fat</td>
+                <td>@fat</td>
+                <td>@fat</td>
               </tr>
               <tr>
                 <th scope="row">3</th>
-                <td colspan="2">Larry the Bird</td>
+                <td>Larry the Bird</td>
+                <td>@fat</td>
+                <td>@fat</td>
+                <td>@fat</td>
                 <td>@twitter</td>
               </tr>
             </tbody>
