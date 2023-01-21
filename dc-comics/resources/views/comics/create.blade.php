@@ -26,12 +26,13 @@
             </div>
             <div class="mb-3">
                 <label class="form-label" for="type" name="type">Tipo*</label>
-                <select class="form-select" aria-label="Default select example">
+                <select class="form-select">
                     <option value="comic book">Comic Book</option>
                     <option value="graphic novel">Graphic Novel</option>
                 </select>
             </div>
-            <button type="submit" class="btn btn-success">Inserisci</button>
+            <button type="submit" class="btn btn-success">Save</button>
+            <button type="reset" class="btn btn-danger">Reset</button>
 
         </form>
     </div>
