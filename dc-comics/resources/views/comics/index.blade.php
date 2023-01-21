@@ -42,5 +42,10 @@
               </tr>
             </tbody>
           </table>
+          <button class="btn btn-success"><a href="{{route('comics.create')}}">Inserisci Elemento</a></button>
+          {{-- <button class="btn btn-success"><a href="{{route('comics.edit')}}">Modifica Elemento</a></button>
+          <button class="btn btn-success"><a href="{{route('comics.destroy')}}">Elimina Elemento</a></button> --}}
+
+
     </div>
 @endsection

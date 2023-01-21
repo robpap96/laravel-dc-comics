@@ -31,6 +31,8 @@
                     <option value="graphic novel">Graphic Novel</option>
                 </select>
             </div>
+            <button type="submit" class="btn btn-success">Inserisci</button>
+
         </form>
     </div>
 @endsection
